@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+div .main_content{
+    margin: 20px;
+}
+.navbar-brand{
+    color: rgb(118, 109, 245);
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 5px;
+}
+.nav-link{
+    font-weight: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav-link:hover{
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 2px  gray;
+}
+
+/*home*/
+.container {
+    position: relative;
+    text-align: center;
+   color: rgb(80, 79, 79);
+  }
+  
+  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    
+  }
+  .hola{
+    font-size: 50px;
+  }
+
+  /*home end*/
+/*about*/
+.about-page{
+    margin: 75px;
+    padding: 20px;
+}
+.heading{
+    font-weight: bold;
+    color: rgb(80, 79, 79);
+}
+/*about end*/
+/*courses*/
+.course-head h2{
+    margin-top: 75px;
+    margin-left: 75px;
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(80, 79, 79);
+}
+div .row{
+    
+    margin-left: 75px;
+    margin-right: 75px;
+    padding: 20px;
+}
+div .col{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+div .col:hover{
+   border: transparent;
+}
+/*courses end*/
+/*contact*/
+.contact-head h2{
+    margin-top: 75px;
+    margin-left: 75px;
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(80, 79, 79);
+}
+form{
+    margin-left: 75px;
+    margin-right: 75px;
+    padding: 20px;
+    position: relative;
+}
+/*contact end*/
