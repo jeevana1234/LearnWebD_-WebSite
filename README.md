@@ -1,6 +1,6 @@
 LearnWebD Website
-this website is comleted and can be used as an sample website for mini projects
-this website have courses:
+this website is completed and can be used as a sample website for mini projects
+this website has courses:
 1. HTML
 2. CSS
 3. JavaScript
