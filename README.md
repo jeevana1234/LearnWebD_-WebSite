@@ -1,4 +1,4 @@
-LearnWebD
+LearnWebD Website
 this website is comleted and can be used as an sample website for mini projects
 this website have courses:
 1. HTML
